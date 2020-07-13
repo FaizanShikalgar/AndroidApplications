@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "771414086250",
+    "firebase_url": "https://fd-calculator-504a6.firebaseio.com",
+    "project_id": "fd-calculator-504a6",
+    "storage_bucket": "fd-calculator-504a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771414086250:android:ee368b8221603717c8b013",
+        "android_client_info": {
+          "package_name": "com.example.fdcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771414086250-r5mn7q50u9n9ntp4glrtih7rj4qp7t1m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fdcalculator",
+            "certificate_hash": "dde51d574a5542bb8c191a1ce0f528f2eefa144f"
+          }
+        },
+        {
+          "client_id": "771414086250-3q091covijvfgf6skuqb574osal5ts17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdKe1hQj6apIejfxdxoTj4PGsdqNxPLHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771414086250-3q091covijvfgf6skuqb574osal5ts17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
